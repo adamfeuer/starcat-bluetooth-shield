@@ -1,0 +1,6 @@
+Layer stack up for Arietta shield board:
+
+1. Top - GND, ground plane
+2. Bottom - DVDD, digital power plane (5v)
+
+
